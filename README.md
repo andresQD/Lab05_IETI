@@ -1,6 +1,5 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lab04ieti.herokuapp.com/)
+Deploy firebase: https://taks-planner-app-6d910.firebaseapp.com/
 
-Deploy in Azure: https://lab04ieti.azurewebsites.net
 # Credenciales:
 * email:andres@mail.com 
 * password: afqd
